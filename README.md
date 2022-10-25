@@ -31,7 +31,7 @@
   <a href = "mailto:everton.prado0608@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.instagram.com/xinnot/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Xinnot)](https://www.last.fm/user/Xinnot)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Xinnot&width=600)](https://www.last.fm/user/Xinnot)
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </div>
