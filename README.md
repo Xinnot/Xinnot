@@ -1,4 +1,4 @@
-# Sejam bem-vindos ao meu perfil Github, me chamo Everton Andrade e este é meu início na área de TI.
+# Sejam bem-vindos ao meu perfil Github, me chamo Everton Andrade e estou iniciando na área de TI.
 
 <img src="https://komarev.com/ghpvc/?username=Xinnot&color=00ffff" alt="Profile views"/>
 
