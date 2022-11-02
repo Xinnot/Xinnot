@@ -39,13 +39,25 @@
   ### Hobbies
   
 <div>
-   <img width="15%" height="15%" src="https://www.pubgmobile.com/images/event/brandassets/down-logo5.png"/>
+  <figure>
+   <img width="15%" height="15%" src="https://www.pubgmobile.com/images/event/brandassets/down-logo8.png"/>
     <figcaption>Xinnot</figcaption>
+  </figure>
+  
+  <figure>
    <img width="15%" height="15%" src="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/82/6283b8122f7ee.png"/>
     <figcaption>Xinnot</figcaption>
+   </figure>
+  
    <img width="15%" height="15%" src="https://user-images.githubusercontent.com/63211896/199370123-90b7b384-0997-44c4-a68a-2c44b1b1053b.png"/>
-   <img width="15%" height="15%" src="https://user-images.githubusercontent.com/63211896/199370263-a77106b9-d919-41a8-8d8b-cef80c58ecb8.png"/>
-    <figcaption>Xinnot</figcaption>
-   <img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Wolvesville-logo.png"/>
-    <figcaption>Xinnok</figcaption>
+   
+   <figure>
+    <img width="15%" height="15%" src="https://user-images.githubusercontent.com/63211896/199370263-a77106b9-d919-41a8-8d8b-cef80c58ecb8.png"/>
+     <figcaption>Xinnot</figcaption>
+   </figure>
+   
+   <figure>
+    <img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Wolvesville-logo.png"/>
+     <figcaption>Xinnok</figcaption>
+   </figure>
 </div>
