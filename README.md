@@ -25,6 +25,8 @@
 </div>
  
   ### Redes Sociais
+  
+<br>
  
 <div> 
   <a href="https://www.linkedin.com/in/everton-andrade-240639160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -36,7 +38,11 @@
 
 </div>
   
+<br>
+  
   ### Hobbies
+  
+<br>
   
 <div>
   <img width="15%" height="15%" src="https://www.pubgmobile.com/images/event/brandassets/down-logo8.png"/>
