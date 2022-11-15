@@ -45,8 +45,11 @@
 <br>
   
 <div>
-  <img width="15%" height="15%" src="https://www.pubgmobile.com/images/event/brandassets/down-logo8.png"/>
-  <img width="15%" height="15%" src="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/82/6283b8122f7ee.png"/>
+  <img width="15%" height="15%" src="https://play-lh.googleusercontent.com/5AgZpV0i8kaV6-RklMBR12a7d9aEwGUJQcOzog7jaiW8_uc_WUC1mtndYGXlSfg1tS4"/>
+  <img width="15%" height="15%" src="https://avatars.githubusercontent.com/u/7605670?s=280&v=4"/>
   <img width="15%" height="15%" src="https://user-images.githubusercontent.com/63211896/199370263-a77106b9-d919-41a8-8d8b-cef80c58ecb8.png"/>
   <img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Wolvesville-logo.png"/>
+  <img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
+  <img width="15%" height="15%" src="https://pbs.twimg.com/profile_images/1592284041406980099/GKEOUkDF_400x400.jpg">
+  <img width="15%" height="15%" src="https://iconarchive.com/download/i98188/dakirby309/simply-styled/Autodesk-Autocad.ico">
 </div>
