@@ -53,3 +53,8 @@
   <img width="15%" height="15%" src="https://pbs.twimg.com/profile_images/1592284041406980099/GKEOUkDF_400x400.jpg">
   <img width="15%" height="15%" src="https://iconarchive.com/download/i98188/dakirby309/simply-styled/Autodesk-Autocad.ico">
 </div>
+
+<br>
+
+   ## GAMERCARD
+<a href="https://www.exophase.com/user/Xinnot/"><img src="https://card.exophase.com/2/0/100065.png?1671060695"></a>
