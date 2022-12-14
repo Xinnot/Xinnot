@@ -57,4 +57,4 @@
 <br>
 
    ## GAMERCARD
-<a href="https://www.exophase.com/user/Xinnot/"><img width="125%" height="125%" src="https://card.exophase.com/2/0/100065.png?1671060695"></a>
+<a href="https://www.exophase.com/user/Xinnot/"><img width="115%" height="115%" src="https://card.exophase.com/2/0/100065.png?1671060695"></a>
