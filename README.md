@@ -4,7 +4,7 @@
 
 - 🏛  Cursando Eletrotécnica, IFPE
 - 👨‍💻 Estudando Desenvolvimento de Sistemas (ETE) & Programador Front-End (SENAI)
-Currículo virtual: https://xinnot.github.io/meu-curriculo/
+- Currículo virtual: https://xinnot.github.io/meu-curriculo/
 
 <br>
 
