@@ -21,8 +21,8 @@
 
 <div>
   <a href="https://github.com/Xinnot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xinnot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinnot&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Xinnot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel-git-masterrstaa-rickstaa.app/api/top-langs/?username=Xinnot&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
   ## Redes Sociais
