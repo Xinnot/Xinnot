@@ -35,6 +35,7 @@
   <a href="https://www.instagram.com/xinnot/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Xinnot&width=600)](https://www.last.fm/user/Xinnot)
+![Statics scrobbles](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=Xinnot&theme=dimmed&show_scrobbles=true)
 ![Snake animation](https://github.com/Xinnot/Xinnot/raw/output/github-contribution-grid-snake.svg)
 
 </div>
