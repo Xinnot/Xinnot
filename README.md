@@ -14,9 +14,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JAVASCRIPT&logoColor=EFD81D)
+![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery)
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 <br>
 
@@ -33,7 +40,13 @@
 <div> 
   <a href="https://www.linkedin.com/in/everton-andrade-240639160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:everton.prado0608@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://t.me/Xinnot" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/everton-andrade-240639160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/xinnot/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5581988642018" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.codewars.com/users/Xinnot" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/Xinnot" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+
   
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Xinnot&width=600)](https://www.last.fm/user/Xinnot)
 ![Statics scrobbles](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=Xinnot&theme=dimmed&show_scrobbles=true)
@@ -54,7 +67,7 @@
   <img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Wolvesville-logo.png"/>
   <img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
   <img width="15%" height="15%" src="https://pbs.twimg.com/profile_images/1592284041406980099/GKEOUkDF_400x400.jpg">
-  <img width="15%" height="15%" src="https://iconarchive.com/download/i98188/dakirby309/simply-styled/Autodesk-Autocad.ico">
+  <img width="15%" height="15%" src="https://logospng.org/download/autocad/logo-autocad-icone-512.png">
 </div>
 
 <br>
