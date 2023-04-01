@@ -10,6 +10,8 @@
 
 ## 🛠 Competências
 
+<div align="center">
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=1572B6)
@@ -32,9 +34,11 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Xinnot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xinnot&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
- 
+
+</div> 
+
   ## Redes Sociais
-  
+
 <br>
  
 <div> 
