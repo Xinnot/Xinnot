@@ -60,7 +60,7 @@
   
 <br>
   
-<div style="text-align:center;">
+<div text-align="center">
   <img width="15%" height="15%" src="https://play-lh.googleusercontent.com/5AgZpV0i8kaV6-RklMBR12a7d9aEwGUJQcOzog7jaiW8_uc_WUC1mtndYGXlSfg1tS4"/>
   <img width="15%" height="15%" src="https://avatars.githubusercontent.com/u/7605670?s=280&v=4"/>
   <img width="15%" height="15%" src="https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg"/>
