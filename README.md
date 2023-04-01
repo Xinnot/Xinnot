@@ -60,9 +60,10 @@
   
 <br>
   
-<div>
+<div style="text-align:center;">
   <img width="15%" height="15%" src="https://play-lh.googleusercontent.com/5AgZpV0i8kaV6-RklMBR12a7d9aEwGUJQcOzog7jaiW8_uc_WUC1mtndYGXlSfg1tS4"/>
   <img width="15%" height="15%" src="https://avatars.githubusercontent.com/u/7605670?s=280&v=4"/>
+  <img width="15%" height="15%" src="https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg"/>
   <img width="15%" height="15%" src="https://user-images.githubusercontent.com/63211896/199370263-a77106b9-d919-41a8-8d8b-cef80c58ecb8.png"/>
   <img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Wolvesville-logo.png"/>
   <img width="15%" height="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
