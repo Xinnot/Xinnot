@@ -51,9 +51,6 @@
   <a href="https://www.codewars.com/users/Xinnot" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/Xinnot" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 
-  
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Xinnot&width=600)](https://www.last.fm/user/Xinnot)
-![Statics scrobbles](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=Xinnot&theme=dimmed&show_scrobbles=true)
 ![Snake animation](https://github.com/Xinnot/Xinnot/raw/output/github-contribution-grid-snake.svg)
 
 </div>
